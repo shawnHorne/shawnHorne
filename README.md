@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shawnHorne
-- 👀 I’m interested in computer games, console games, learning programming, and sports (watching and playing).
+- 👀 I’m interested in computer games, console games, learning programming, and sports (watching and playing). I also enjoy more in-depth training besides the basics of what you can learn off of Mimo and Sololearn.
 - 🌱 I’m currently learning CSS, JS, and HTML. I have certificates on these from Mimo and Sololearn. 
 - 💞️ I’m looking to collaborate on building/maintaining/improving a website, video game, or app.
 - 📫 How to reach me at shawnhorne@gmail.com.
